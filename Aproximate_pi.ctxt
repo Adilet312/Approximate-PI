@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Aproximate_pi
+comment0.text=\n\ -------------------------------------------------------------------------------------------------------------------------------*\n\ Programm\ calculates\ approximation\ of\ the\ "Pi"\ by\ using\ Madhava\ of\ Sangamagrama's\ method.\n\ The\ programm\ consists\ of\ one\ method\ with\ one\ parameter.In\ addition,there\ are\ two\ "for"\ loop\ ,\n\ which\ are\ one\ of\ them\ is\ main\ and\ second\ one\ is\ in\ approximate_Pi\ function.\ \n\ Aproximation_Pi\ method's\ parameter\ recives\ even\ values\ from\ 2\ to\ 30\ from\ the\ call\ method,\ which\ is\ located\ in\ the\ main\ method\ and\n\ calculates\ each\ iteration\ \ and\ returns\ back\ to\ main\ method\ \ to\ output\ each\ \ caclulation\ of\ the\ pi\ line\ by\ line.\n---------------------------------------------------------------------------------------------------------------------------------*\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=double\ aproximate_Pi(int)
+numComments=3
